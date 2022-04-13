@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         易安解析（ VIP视频解析）
 // @name:en      易安解析
-// @version      20.3.18
+// @version      20.3.19
 // @description  精选VIP视频解析和在线观看源，视频广告少，原网页解析，享受VIP的原画观影体验。支持腾讯视频、爱奇艺、优酷、芒果TV、搜狐视频、PPTV、1905、乐视等网站。易安解析评分排序，不同网站不同排序，越好用的解析越靠前。
 // @description:en  NO VIP NO VIDEO. For v.qq, iqiyi, youku, mgtv, tv.sohu, pptv, 1905, letv.
 // @author       (o˘◡˘o)
